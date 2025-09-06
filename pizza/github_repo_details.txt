@@ -1,0 +1,45 @@
+Repository Name: pizza-sales-insights-dashboard
+
+# 🍕 Pizza Sales Insights Dashboard
+
+## 📊 Project Overview
+This project demonstrates how raw business data can be transformed into actionable insights using **Power BI**.  
+It is based on a case study of a mid-sized pizza chain and highlights how data-driven decision-making improves revenue, efficiency, and customer targeting.
+
+## 🚀 Key Features
+- **Total Revenue, Orders & Pizzas Sold Tracking**
+- **Monthly Sales & Order Trends**
+- **Top & Bottom Selling Pizzas (by quantity & revenue)**
+- **Category-wise Revenue Breakdown (Classic, Supreme, Chicken, Veggie)**
+- **Customer Behavior Analysis (time of day & day of week)**
+- **Predictive Analytics Layer for Sales Growth (+7.51%)**
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**
+- Data Visualization (Charts, Graphs, Dashboards)
+- Predictive Analytics (Basic Forecasting)
+
+## 💡 Business Impact
+- Identified top-performing products (e.g., Thai Chicken, Pepperoni, Hawaiian)
+- Optimized marketing campaigns and reduced waste from low performers
+- Improved staff scheduling by aligning with peak times (7–9 PM, weekends)
+- Enabled **data-backed seasonal and growth strategies**
+
+## 📂 Repository Structure
+```
+📦 pizza-sales-insights-dashboard
+ ┣ 📂 data              # Raw & cleaned datasets (if shareable)
+ ┣ 📂 dashboard         # Power BI (.pbix) and exported PDF
+ ┣ 📂 images            # Screenshots & infographic
+ ┣ 📜 README.md         # Project overview (this file)
+ ┗ 📜 case-study.pdf    # One-page business case study
+```
+
+## 📸 Preview
+(Add screenshots of your Power BI dashboard and infographic here)
+
+## 🤝 Contribution
+Feel free to fork this repo, suggest improvements, or adapt the structure for your own data-driven consulting projects.
+
+---
+🔗 **Consulting by [Your Name]** | Helping businesses grow with **data-driven strategies**  
