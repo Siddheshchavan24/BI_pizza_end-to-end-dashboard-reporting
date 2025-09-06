@@ -1,7 +1,7 @@
 🍕 Pizza Sales Forecasting Dashboard
 ![Pizza Dashboard](pizza/dashboard.png)
 ![Timely](pizza/time-analysis.png)
-![Predictions](pizza/predictive layer.png)
+![Predictions](pizza/predictive-layer.png)
 
 
 📌 Project Overview
